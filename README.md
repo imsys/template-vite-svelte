@@ -62,6 +62,8 @@ If you're building a single-page app (SPA) with multiple routes, sirv needs to b
 
 ## Using TypeScript
 
+!! The script was written for RollUp, it needs to be adapted. !!
+
 This template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:
 
 ```bash
