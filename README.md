@@ -27,7 +27,7 @@ cd svelte-app
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
+...then start [Vite](https://vitejs.dev/):
 
 ```bash
 npm run dev
